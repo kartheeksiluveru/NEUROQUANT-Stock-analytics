@@ -3,13 +3,13 @@ import type { Metadata, Viewport } from 'next'
 import './globals.css'
 
 export const metadata: Metadata = {
-  title: 'ASI Radar — Adaptive Market Intelligence',
-  description: 'Real-time anomaly detection, informed-flow intelligence, and adaptive market signals across a 100-asset universe.',
-  applicationName: 'ASI Radar',
-  keywords: ['market intelligence', 'anomaly detection', 'informed flow', 'quantitative research'],
+  title: 'NeuroQuant — Adaptive Market Intelligence',
+  description: 'Live market telemetry, adaptive anomaly detection, informed-flow intelligence, and boardroom outcome modeling.',
+  applicationName: 'NeuroQuant',
+  keywords: ['NeuroQuant', 'market intelligence', 'anomaly detection', 'informed flow', 'quantitative research'],
   openGraph: {
-    title: 'ASI Radar — Adaptive Market Intelligence',
-    description: 'Decode hidden alpha with adaptive market intelligence.',
+    title: 'NeuroQuant — Adaptive Market Intelligence',
+    description: 'Read the market beneath the move with adaptive market intelligence.',
     type: 'website',
   },
   generator: 'v0.app',
